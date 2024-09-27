@@ -23,9 +23,11 @@ body {
 }
 
 .cartao__conteudo {
-    text-align: center;
-    height: 100%;
     background-color: var(--card-front-color);
+    text-align: center;
+    /* background-color: aquamarine; */
+    height: 100%;
+  
 }
 
 .cartao__conteudo h3 {
@@ -44,7 +46,7 @@ body {
     padding: 2rem;
  }
 
- 
+
 
 
 
